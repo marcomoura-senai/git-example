@@ -1,3 +1,3 @@
 export function feature2() {
-    console.log("")
+    console.log("feature 2")
 }
